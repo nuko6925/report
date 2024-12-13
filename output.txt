@@ -1,0 +1,101 @@
+﻿1da46c92fc91cddb0c23c2df611390974e168a83 | accurate-block-placement-1.2.5.jar
+12bb82887e1d734ecd6f56547bdc4fd108890dd6 | adventuredungeons-fabric-1.21-1.3.1.jar
+6b0e752bf395a5bd84fe86b71b1838cb39d8f7f5 | animal_feeding_trough-1.1.2+1.21.jar
+e71346a43c563e5784580dd096338acfb45f49d4 | architectury-13.0.8-fabric.jar
+505f08e419c99666bbafea92a8f0e32bd22413e6 | athena-fabric-1.21-4.0.1.jar
+3a46a69013a69375bc20b16458166855df2222a7 | azurelibarmor-fabric-1.21-2.3.2.jar
+ad7f955e5af8193898c13cfa2fc050f88b643d53 | badpackets-fabric-0.8.1.jar
+287a36a153c78a71d4121b66e2d331168a949d25 | balm-fabric-1.21-21.0.14.jar
+c1cd7a5c61cbcff5ebfc6dce5e4bfc88ecd23744 | BiomesOPlenty-fabric-1.21-21.0.0.18.jar
+5352e263fc7a976b7ecc18c6acd8d5c30296fedb | Camerapture-1.6.4+mc1.21.jar
+511cdbcbbe13d1b43111f007099e6b104e7dc494 | carryon-fabric-1.21-2.2.1.jar
+db08cc4e0d875314bd51ff7fcee87ff391355321 | chipped-fabric-1.21-4.0.0.jar
+3504c0ecb56dc1ae3d7c907b11a19eaf2127af3e | cicada-lib-0.9.2+1.21-1.21.1.jar
+0202541388f2f590b7ff5853262fe52cebee67e9 | clifftree-1.7.jar
+5d82342a2df53fd6df712bfdd583a811572918a4 | cloth-config-15.0.140-fabric.jar
+2a38c6b5d5d90c7c74bbf81497e17a722ee826a4 | collective-1.21.1-7.87.jar
+f0e6d2dd605d427da2ba8f6f5a9afbfc3505a1cb | connectiblechains-2.4.2+1.21.1.jar
+5a04315811f043a66c11eb64ec185a71995cd3c5 | cristellib-fabric-1.2.8.jar
+fdf12b86ef9be86c34e93de167138f7f9426a67e | Croptopia-1.21-FABRIC-3.0.9.jar
+8da17be6bd745a416d7461875061a89bd64ed9c6 | DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar
+bce66cedf877e6bb65eba1e4f0221d856762bf03 | DnT-ancient-city-overhaul-v2 [Fabric].jar
+3c24fd0d292b56afc2b970e7392655114a8615f7 | DnT-desert-temple-replacement-v1.2 [Fabric].jar
+f5115511795241bf3a2737429102bd29b5c1000d | DnT-end-castle-standalone-v1.1 [Fabric].jar
+7177ffb6aec21f18d6f6afe5af2a429375892a24 | DnT-jungle-temple-replacement-v1.2 [Fabric].jar
+bad9e372ea71706fc6705ed65997a42040e13a0a | DnT-nether-fortress-overhaul-v2.1 [Fabric].jar
+08f0e90435dd15cb770142159c510c6546f893f2 | DnT-ocean-monument-replacement-v1.2 [Fabric].jar
+612da6f01ee7138cba906727469d668faedd6b3f | DnT-pillager-outpost-overhaul-v2.2 [Fabric].jar
+05a054849807587338e63a59b820c580e93111fa | DnT-stronghold-rework-v2.1 [Fabric].jar
+03c01b312031e14c0ea06e62ad438b1c1cc13876 | DnT-swamp-hut-overhaul-v2 [Fabric].jar
+489198eaa01b3aa244b969523ce78fa09d7489a8 | DnT-woodland-mansion-replacement-v1.2 [Fabric].jar
+e4b68175ab02458b490886453d55af0c2cd1e3ac | do_a_barrel_roll-fabric-3.7.2+1.21.jar
+b6fcab561ebfce70a317471891b6c9527bcfe7ba | duckling-fabric-1.21-5.0.1.jar
+68c6f0dea960ce94f55f1f05d8893623da207be8 | dungeons-and-taverns-v4.4.4 [Fabric].jar
+b39bcea5b7c45ea07290ff5c69b4d801aa408f98 | DungeonsAriseSevenSeas-1.21.x-1.0.3-fabric.jar
+55e52f9d8b67501d6b916be4082ee2da25ed8089 | enchantingtree.jar
+8df62541af76c9d313558bcd01d1781a71abd6d0 | EpheroLib-FABRIC-1.2.0-1.21.jar
+dcbe1e82dd0b1a5ba2cdcc4505ac70f85120404e | Epic Dungeons-0.1.04-Fabric-1.21.jar
+b71c69483f3ae4b03e5dbab61fb5af5d8f074273 | eternalstarlight-0.1.18+1.21.1+fabric.jar
+f04907ed21f6239f90031cfe1d79b43e3ef76cb9 | Explorify v1.6.2 f10-48.jar
+35d3110bf44dc88f148d5feb13bfdae50268ba00 | fabric-api-0.109.0+1.21.1.jar
+0453001827249a8db2c4608bef97df994e1e1853 | FarmersDelight-1.21-2.1.10+refabricated.jar
+e730c38d19978c8fc59c08773117cd50a24a3b0d | framework-fabric-1.21-0.9.1.jar
+a326a14a6eab1b82bbcf7fb4fd27b9655ffb9d1b | geckolib-fabric-1.21-4.5.8.jar
+a1960278cdbe795c7ddee3068cb0438dc61acc95 | GlitchCore-fabric-1.21-2.0.0.3.jar
+707f8d868a9d96497eac89fc9dd1917852cb86e6 | Heaven Dimension.jar
+261f47a680c4d7afbff3d38c7bd9c01dd2d5fc64 | iris-fabric-1.8.0+mc1.21.1.jar
+dff7ffd2f2610eac2bd1eb76c575c64cc57a228c | jamlib-fabric-1.2.1+1.21.jar
+dc0c17f98fe518b75aa6ba4b4e57957e1d770073 | jei-1.21.1-fabric-19.21.0.247.jar
+771dd449664b963b06a984907fe9b5d89dd835b2 | journeymap-fabric-1.21-6.0.0-beta.18.jar
+459b1a636890bafabdecdb705b6beda81438da17 | jumpoverfences-fabric-1.21-1.6.0.jar
+c74ed3cdab1eb5f2ea0b1ed8cb4a888883804d22 | litematica-fabric-1.21.1-0.19.50.jar
+60fc10ed1847d6038a12e0a8af071f4598d13fa2 | logical_zoom-0.0.25.jar
+e0ae2c2da37df667c578aab12ab13f6272ab44e8 | malilib-fabric-1.21-0.21.4.jar
+01df3205e17c60cda4118d963705979885001708 | mcw-bridges-3.0.0-mc1.21fabric.jar
+e4309627237f42b1cb3f861e2d5a8d9840a6d84f | mcw-doors-1.1.1fabric-mc1.21.jar
+7aab3aa6044464880d33f4c1320cdfbc2446cc80 | mcw-fences-1.1.2-mc1.21fabric.jar
+50d82f66ab9eefd06fd70371f75c2a92d28ffa9c | mcw-furniture-3.3.0-mc1.21fabric.jar
+8a7d45b9aebba874542fa992357b7aba587ef086 | mcw-holidays-1.1.0-mc1.21fabric.jar
+5fb0ccaeed04b32ce5c2a25e2ade482d7a30580e | mcw-lights-1.1.1-mc1.21fabric.jar
+7962920555e941d1c0771ed497e79fc0852d77d1 | mcw-paths-1.0.5fabric-mc1.21.jar
+7d37607c356b26b5abcf37e02c24aa053e7c2a1e | mcw-trapdoors-1.1.3-mc1.21fabric.jar
+ca60be94b7ccfc88d3b82bbfdafa06e3dc6d2ef7 | mcw-windows-2.3.2-mc1.21fabric.jar
+6213120772192040a0aeb5c7cfe330c068605b1f | modmenu-11.0.3.jar
+cd641e5a5c28fa37556d5476a1ef7e15c4ea5bf9 | MoreChestVariants-1.5.6+1.21-Fabric.jar
+d73d0be3155b5b1567cedd8df7d1dbe67d71f3bb | mvs-4.2.6-1.21.jar
+afe36ba041bab1e4301e416f8f046d8c7c627c54 | naturespirit-1.6.2-1.21.jar
+fdd29fa21091896f11de75f30591f62df7213175 | owo-lib-0.12.11+1.21.jar
+01e6073cef18701100523e437ba0a881fccfb459 | particle-rain-2.1.4.jar
+d1a1af618efc142dcd337ebda3c34bd8119570a8 | player-animation-lib-fabric-2.0.0-alpha1+1.21.jar
+b42ad1144dd3a2bcd24a70419788010f1a642de8 | Quad-1.2.9+1.21.1-Fabric.jar
+e6ba8d19533b2ab72f554371660bbc786703ae53 | refurbished_furniture-fabric-1.21-1.0.6.jar
+b0cb01f1e5f747bb7b3a8eba7143368f25225f42 | reinforced-chests-3.0.1+1.21.jar
+4887ec03300fc498b37ec361810d659d74702ade | resourcefulconfig-fabric-1.21-3.0.8.jar
+a9c2ef9eb192fcb31eb9e4f38eb6ba0841cddee7 | resourcefullib-fabric-1.21-3.0.11.jar
+412d6319f57e0f35063610aa93d451f16a4e7d57 | rightclickharvest-fabric-4.3.1+1.21.jar
+c65fa985fa1890ed314b90873c26910539495cab | rocks-1.8.2.jar
+613ec00d27fd399afac5657744fd2ebb747abb23 | rogues-2.1.0+1.21.1.jar
+efd098d6a1fe66d24dd01754759d815dcc92e252 | runes-1.0.3+1.21.1.jar
+222957b172c74f5dea971884c846c62b8446d362 | SimpleCopperPipes-mc1.21.1-2.0.3.jar
+7a94dda82ffd1fe24cd1cacad70eb89dbe564ea6 | sodium-fabric-0.6.0-beta.2+mc1.21.1.jar
+0e6e77573a7e14a424a603c2412350728fbd07ff | spawnermod-1.21.1-1.2.8+Fabric.jar
+feec7c84f04a7d893350a4756d07b7705ad21b9a | spell_engine-1.1.2+1.21.1.jar
+347897d2044a6eb2442bfcfd3645e6662e8fe429 | spell_power-1.0.5+1.21.1.jar
+15abfdcdc3cbac5c8a16012a52c48cc1fef91702 | splinecart-0.1+1.21.jar
+bc5b04a02439fd346495e4cf1eef8f88d0f4db91 | Storage Drawers-fabric-1.21-13.8.3.jar
+ea75572de08092223a843ae61db5216cf4b1b3ff | Structory_1.21.x_v1.3.7.jar
+99de1c6aeb8a9909cb238b91b3e3eb62d8ec605f | structure_pool_api-1.1.3+1.21.1.jar
+733c8acb04df2e26c3e6f9361c64bfdc9bf153f2 | syncmatica-fabric-1.21-0.3.12-sakura.6.jar
+9fe7844efeac4689b03118ba913b51f4207e65fd | TerraBlender-fabric-1.21-4.0.0.2.jar
+e7767cda15b2063c8966fddf8ebc30a2a00d590d | tool-trims-mod-v2-2-1a.jar
+35fa1cc83b3d301f1058d4fac67082769a7c4161 | torchmaster-fabric-1.21-21.0.2-alpha.jar
+1cb3e9182be1c2d979d972603a5c9c3ba79504de | travelersbackpack-fabric-1.21.1-10.1.3.jar
+f5f2fc3014ba1f5f2e6a1bf640e26cdafb8ee8fa | treeharvester-1.21.1-9.1.jar
+f54756f938c7c273713b9f97d4a987eec551e892 | trinkets-3.10.0.jar
+7a22868f19f1728f04dac42b865b749a06e0cb86 | tweakeroo-fabric-1.21-0.21.54.jar
+7e7d4e24a2d0ad3d85de430d2b15ff3e525322cf | t_and_t-neoforge-fabric-1.13.2.jar
+de69565da6eaeb7642099604b603aa59754e7f14 | waystones-fabric-1.21.1-21.1.5.jar
+b809e7983c12536337f9f01dde9f3a70008effc4 | wizards-2.1.0+1.21.1.jar
+f6b25691e63af8f5a9a05bedc594f597bbecd248 | wthit-fabric-12.4.3.jar
+e6937b6d090c2f12b53167583b91d12672f05ccc | YungsApi-1.21.1-Fabric-5.1.3.jar
+dfa333414214b2d0a8911415785ef95047136b7b | YungsBetterDungeons-1.21.1-Fabric-5.1.3.jar
